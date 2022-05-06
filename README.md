@@ -1,6 +1,6 @@
 ### EX NO: 04
 ### DATE: 08.04.2022
-# <p align="center"> BACK-PROPOGATION---SINGLE-NEURON </P>
+# <p align="center"> BACK PROPOGATION IN SINGLE NEURON </P>
 
 ## AIM:
 To write a python program to perform random classification.
