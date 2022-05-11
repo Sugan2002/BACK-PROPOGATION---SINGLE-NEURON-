@@ -10,7 +10,9 @@ Hardware – PCs
 Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
 
 ## Related Theoritical Concept:
-    Backpropagation is an algorithm used to calculate derivatives quickly. It is a supervised learning algorithm, for training Multi-layer Perceptrons. Artificial neural networks use backpropagation as a learning algorithm to compute a gradient descent with respect to weights.  
+    Backpropagation is an algorithm used to calculate derivatives quickly. It is a supervised learning algorithm, 
+    for training Multi-layer Perceptrons. Artificial neural networks use backpropagation as a learning algorithm 
+    to compute a gradient descent with respect to weights.  
     
 ## Algorithm:
 ### Step 1- 
