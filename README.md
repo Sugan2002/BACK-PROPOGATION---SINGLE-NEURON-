@@ -63,6 +63,18 @@ print(w)
 
 ```
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
 ## OUTPUT:
 
 ![EXP4_NN_O](https://user-images.githubusercontent.com/77089743/165778649-75d6dc4a-a368-4aed-9a9a-fded74d0b693.PNG)
