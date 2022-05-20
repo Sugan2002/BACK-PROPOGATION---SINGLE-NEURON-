@@ -29,15 +29,15 @@ Anaconda – Python 3.7 Installation / Google Colab /Jupiter Notebook
    
 ## Program:
 
-/*
 
+```python
+
+/*
 Program to implement random classification.
 Developed by   : P.Suganya
 RegisterNumber :  212220230049
-
 */
 
-```python
 
 #BACK PROPAGATION IN SINGLE NEURON
 import numpy as np
