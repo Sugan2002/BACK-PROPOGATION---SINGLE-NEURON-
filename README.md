@@ -35,7 +35,7 @@ Developed by   : P.Suganya
 RegisterNumber :  212220230049
 */
 
-```java
+```python
 
 #BACK PROPAGATION IN SINGLE NEURON
 import numpy as np
